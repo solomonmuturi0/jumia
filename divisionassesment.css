@@ -1,0 +1,18 @@
+.cat3{
+    background-color: white;
+    margin: 50px;
+
+}
+.cat1{
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+
+
+
+}
+#cat2{
+    display: grid;
+
+}

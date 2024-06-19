@@ -1,0 +1,21 @@
+#design1{
+    background-color: white;
+    color: white;
+    margin: 30px;
+
+}
+
+.design2{
+    background-color: white;
+    color: white;
+    margin: 30px;
+}
+
+.design3{
+    background-color: white;
+    color: white;
+    margin: 30px;
+}
+.main{
+    display: flex;
+}
